@@ -56,7 +56,7 @@ This means:
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/adarshj61/todo-app.git
 ```
 
 2. Navigate to the project folder  
@@ -93,8 +93,8 @@ I am a B.Tech CSE student learning full-stack development and building projects 
 
 ## 🔗 Connect With Me
 
-- LinkedIn: (Add your link here)  
-- GitHub: (Add your link here)  
+- LinkedIn: ( link here)  
+
 
 ---
 
