@@ -93,8 +93,8 @@ I am a B.Tech CSE student learning full-stack development and building projects 
 
 ## 🔗 Connect With Me
 
-- LinkedIn: ( link here)  
-
+- LinkedIn:  (link )  
+https://www.linkedin.com/in/adarsh-jaiswal-78a266353?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
