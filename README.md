@@ -98,5 +98,3 @@ https://www.linkedin.com/in/adarsh-jaiswal-78a266353?utm_source=share_via&utm_co
 
 ---
 
-⭐ If you like this project, feel free to give it a star!
-
