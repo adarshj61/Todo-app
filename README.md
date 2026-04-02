@@ -85,16 +85,20 @@ npm run dev
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-I am a B.Tech CSE student learning full-stack development and building projects to improve my skills.
-
----
-
-## 🔗 Connect With Me
-
-- LinkedIn:  
-https://www.linkedin.com/in/adarsh-jaiswal-78a266353?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Hi, I’m **Adarsh Jaiswal**, a B.Tech CSE student passionate about **Web Development** and **AI-powered applications**.  
+I enjoy building real-world projects and continuously improving my technical skills.
 
 ---
 
+## 🤝 Connect with Me
+
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/adarsh-jaiswal-78a266353" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/adarshj61" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
