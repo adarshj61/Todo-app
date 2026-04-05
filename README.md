@@ -81,7 +81,7 @@ npm run dev
 - Add due dates and reminders  
 - Add drag and drop feature  
 - Add categories or tags  
-- Add dark mode  
+- Add dark theme 
 
 ---
 
