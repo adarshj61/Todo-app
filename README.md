@@ -11,7 +11,7 @@ This app helps users manage daily tasks efficiently with a responsive design and
 - Mark tasks as completed  
 - Data is stored in browser using Local Storage  
 - Fully responsive (works on mobile, tablet, desktop)  
-- Clean UI using Tailwind CSS  
+- Clean User Interface using Tailwind CSS  
 - Fast and smooth performance with React  
 
 ---
